@@ -1,0 +1,23 @@
+.left-link-panel ul{
+margin:0 0 0 0px;
+}
+.left-link-panel li{
+list-style:none;
+margin-left:10px;
+}
+
+.left-link-panel li a{
+display:block;
+text-decoration:none;
+font-family:verdana;
+color:#FFFFFF;
+font-size:11px;
+font-weight:bold;
+margin-top:5px;
+padding-bottom:4px;
+border-bottom:#CCCCCC 1px dashed;
+line-height:22px;
+}
+.left-link-panel li a:hover{
+color:#000066;
+}
