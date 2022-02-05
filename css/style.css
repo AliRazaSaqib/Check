@@ -351,8 +351,14 @@ h5 {
   font-weight: bold;
 }
 
+.matter table td .inputField {
+  max-width: 512px;
+  width: 100%;
+}
+
 .submit-btn {
   float: right;
+  clear: right;
   border: none;
   width: 80px;
   height: 30px;
