@@ -142,7 +142,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 <li><a href="download-form.html" class="other-link">Download forms</a></li>
 <li><a href="how-apply-for-certificate-fcra.html" class="other-link">FCRA certificate</a></li></ul></div></div><!--left-panel-->
 
-<div class="center-panel new-changes" style="padding-bottom: 50vh;">
+<div class="center-panel new-changes" style="padding-bottom: 40vh;">
 <div class="addressandmap">
         <div class="map">
         <iframe width="343" height="198" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=crystal+vision+delhi&amp;aq=&amp;sll=21.125498,81.914063&amp;sspn=37.523709,56.513672&amp;ie=UTF8&amp;hq=crystal+vision&amp;hnear=New+Delhi,+Delhi&amp;ll=28.635854,77.310233&amp;spn=0.006592,0.00912&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><br /></small>      
