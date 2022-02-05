@@ -14,6 +14,8 @@
 body,td,th {
 	font-size: 18px;
 }
+
+
 </style>
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.validate.js"></script>
@@ -140,7 +142,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 <li><a href="download-form.html" class="other-link">Download forms</a></li>
 <li><a href="how-apply-for-certificate-fcra.html" class="other-link">FCRA certificate</a></li></ul></div></div><!--left-panel-->
 
-<div class="center-panel" style="height: 100vh; padding-bottom: 50px;">
+<div class="center-panel new-changes" style="padding-bottom: 50vh;">
 <div class="addressandmap">
         <div class="map">
         <iframe width="343" height="198" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=crystal+vision+delhi&amp;aq=&amp;sll=21.125498,81.914063&amp;sspn=37.523709,56.513672&amp;ie=UTF8&amp;hq=crystal+vision&amp;hnear=New+Delhi,+Delhi&amp;ll=28.635854,77.310233&amp;spn=0.006592,0.00912&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><br /></small>      
@@ -157,8 +159,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 	<a href="mailto:crystalvisionweb2@gmail.com">crystalvisionweb2@gmail.com</a>
 </div>
 </div>
-	           	<div class="matter">
-                  <h3 style="margin-top: 12px;">Contact Us</h3>
+	           	<div class="matter" >
+                  <h3 >Contact Us</h3>
                  <form action="process.php" method="post" id="form1" name="form1" onsubmit="MM_validateForm('name','','R','phone','','R','email','','RisEmail','subject','','R','message','','R');return document.MM_returnValue">
 
                   <table style="border: none;">
@@ -204,7 +206,6 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                   </table>
                  </form>
                  <br />           
-</p>
 </div>
 
     </div><!--center-panel-->
